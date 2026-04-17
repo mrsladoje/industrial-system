@@ -1,4 +1,4 @@
-namespace ProcessingSystemApp;
+namespace ProcessingSystemApp.Models;
 
 public class JobHandle
 {

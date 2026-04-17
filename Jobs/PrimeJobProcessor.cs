@@ -1,4 +1,6 @@
-namespace ProcessingSystemApp;
+using ProcessingSystemApp.Models;
+
+namespace ProcessingSystemApp.Jobs;
 
 public class PrimeJobProcessor : IJobProcessor
 {

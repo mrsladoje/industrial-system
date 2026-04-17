@@ -1,4 +1,5 @@
 using ProcessingSystemApp;
+using ProcessingSystemApp.Models;
 
 var configPath = args.Length > 0 ? args[0] : "config.xml";
 var config = SystemConfig.Load(configPath);

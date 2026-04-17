@@ -1,6 +1,6 @@
 using System.Xml.Linq;
 
-namespace ProcessingSystemApp;
+namespace ProcessingSystemApp.Models;
 
 public class SystemConfig
 {
